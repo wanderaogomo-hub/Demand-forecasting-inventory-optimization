@@ -1,0 +1,6 @@
+Warehouse_ID,Total_SKUs,SKUs_Requiring_Reorder,Average_Days_Cover,Recommended_Order_Units,Current_Inventory,Reorder_Rate_%,Replenishment_Priority
+WH_1,50,1,24.758000000000003,522.0,22110,2.0,1
+WH_3,50,1,24.996,522.0,22152,2.0,2
+WH_4,50,1,25.086,552.0,22242,2.0,3
+WH_5,50,0,26.058000000000003,0.0,23011,0.0,4
+WH_2,50,0,27.8,0.0,24504,0.0,5
